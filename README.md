@@ -1,7 +1,7 @@
-# Parallel-Mandelbrot-4
-Load Balancing | Row By Row | Dynamic Proccess
+# Parallel Madelbrot Dynamic LOad Balancing 
+Load Balancing | Row By Row | Dynamic Process
 #
-Parallel Mandelbrot Create Image as BMP Format
+Parallel Madelbrot Create Image as BMP Format By Dynamictly Load balancing 
 C++ (VC++ 2013)
 #
 02-09-2016
