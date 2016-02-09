@@ -1,4 +1,4 @@
-# Parallel Madelbrot Dynamic LOad Balancing 
+# Parallel Madelbrot Dynamic Load Balancing 
 Load Balancing | Row By Row | Dynamic Process
 #
 Parallel Madelbrot Create Image as BMP Format By Dynamictly Load balancing 
